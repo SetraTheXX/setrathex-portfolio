@@ -34,6 +34,12 @@ pnpm build
 pnpm start --hostname 127.0.0.1
 ```
 
+## Repository
+
+```text
+https://github.com/SetraTheXX/setrathex-portfolio
+```
+
 ## CV Files
 
 CV PDFs are not committed to this repository. Add them locally or in your deploy environment:
@@ -53,3 +59,7 @@ The site expects these public paths:
 ## Privacy
 
 The public repo should not include personal planning files, raw journey notes, private roadmaps, local context notes, or CV PDFs.
+
+## License
+
+MIT
