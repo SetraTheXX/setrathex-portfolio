@@ -1,6 +1,6 @@
 # Setrathex Portfolio
 
-Modern dark portfolio source for `setrathex.com.tr`.
+Modern dark portfolio source for `setrathex.com.tr`
 
 The project is structured as a single-page Next.js portfolio with Turkish and English content, project cards, writing links, command menu, CV actions, and responsive mobile navigation. Private planning notes and CV PDFs are intentionally excluded from version control.
 
